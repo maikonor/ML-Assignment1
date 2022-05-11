@@ -1,0 +1,12 @@
+name: 5XSL0
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - tensorflow
+  - scipy
+  - jupyterlab
+  - tqdm
+  - scikit-learn
